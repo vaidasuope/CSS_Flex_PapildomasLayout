@@ -1,0 +1,64 @@
+body, html {
+    font-family: Dialog;
+    height: 100%;
+}
+img {
+    height: 270px;
+    width: 300px;
+}
+.logo {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.heading {
+    align-items: center;
+    border-top: 3px darkblue solid;
+    border-bottom: 3px darkblue solid;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 90%;
+}
+h3 {
+    margin: 0px;
+}
+.block {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 250px;
+    justify-content: center;
+    margin: -20px auto;
+    width: 95%;
+}
+.box1 {
+    background-color: lightskyblue;
+    margin-right: 5px;
+    width: 22%;
+}
+.box2 {
+    background-color: lightskyblue;
+    margin-right: 5px;
+    width: 22%;
+}
+.box3 {
+    background-color: lightskyblue;
+    margin-right: 5px;
+    width: 22%;
+}
+.box4 {
+    background-color: lightskyblue;
+    width: 22%;
+}
+span {
+    font-size: 19px;
+    font-weight: bold;
+}
+.text {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
